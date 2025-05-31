@@ -4,14 +4,14 @@ project:
 website:
   title: "Matemática Aplicada"
   navbar:
+    left:
+      - icon: chat-dots
+        text: Foro
+        href: https://github.com/Matematica-Aplicada/matematica-aplicada.github.io/discussions    
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
-format:
-  html:
+        href: https://github.com/Matematica-Aplicada/matematica-aplicada.github.io
     theme: cosmo
     css: styles.css
 

@@ -1,0 +1,12 @@
+{
+  "hash": "c9242d3147d6fbb6ad61a284f9abd526",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"Post With Math and Code\"\nauthor: \"Harlow Malloc\"\ndate: \"2025-05-31\"\ncategories: [news, code, analysis]\nimage: \"image.jpg\"\n---\n\n\nThis is a post with executable code.\n\n::: {#f6846334 .cell execution_count=1}\n``` {.python .cell-code}\nprint(\"Executable code is working on this blog!\")\n```\n\n::: {.cell-output .cell-output-stdout}\n```\nExecutable code is working on this blog!\n```\n:::\n:::\n\n\nHere is some inline math: $E = mc^2$.\n\nAnd here is a displayed equation:\n\n$$\n\\int_{a}^{b} f(x)\\,dx = F(b) - F(a)\n$$\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

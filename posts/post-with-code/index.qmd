@@ -1,5 +1,5 @@
 ---
-title: "Post With Code"
+title: "Post With Math and Code"
 author: "Harlow Malloc"
 date: "2025-05-31"
 categories: [news, code, analysis]
@@ -7,3 +7,15 @@ image: "image.jpg"
 ---
 
 This is a post with executable code.
+
+```{python}
+print("Executable code is working on this blog!")
+```
+
+Here is some inline math: $E = mc^2$.
+
+And here is a displayed equation:
+
+$$
+\int_{a}^{b} f(x)\,dx = F(b) - F(a)
+$$
