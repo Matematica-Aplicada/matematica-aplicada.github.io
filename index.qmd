@@ -17,4 +17,6 @@ La idea es que aquí iremos subiendo algunos recursos, desde links a papers inte
 
 Está hecho [Quarto](https://quarto.org) markwdown, con lo cual se puede incluir fácilmente tanto Latex como código ejecutable. Para editar la página o agregar un post, pueden ir al [repositorio open-source](https://github.com/Matematica-Aplicada/matematica-aplicada.github.io) que contiene el proyecto hecho en Quarto. PRs bienvenidos!
 
+Un aspecto muy importante es el [Foro de discusión](https://github.com/Matematica-Aplicada/matematica-aplicada.github.io/discussions). No sabemos si está bien configurado aún, pero es posible que haya que ser miembro de la organización matematica-aplicada de GitHub.
+
 ## Blog
