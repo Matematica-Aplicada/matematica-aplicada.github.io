@@ -1,0 +1,16 @@
+---
+title: "Matemática Aplicada"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+
+Hola, este es un blog de Quarto para la orientación aplicada de la carrera de Matemática de la UBA.
+
+La idea es que aquí iremos subiendo algunos recursos, desde links a papers interesantes, a notas de clases.
