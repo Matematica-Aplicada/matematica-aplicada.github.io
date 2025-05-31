@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Matemática Aplicada",
+    "title": "Grupo de estudio y discusión interclaustros",
     "section": "",
-    "text": "Hola, este es un blog de Quarto para la orientación aplicada de la carrera de Matemática de la UBA.\nLa idea es que aquí iremos subiendo algunos recursos, desde links a papers interesantes, a notas de clases.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Math and Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMay 31, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 28, 2025\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Hola, este es un blog para la orientación aplicada de la carrera de Matemática de la UBA.\nLa idea es que aquí iremos subiendo algunos recursos, desde links a papers interesantes, a notas de clases.\nEstá hecho Quarto markwdown, con lo cual se puede incluir fácilmente tanto Latex como código ejecutable. Para editar la página o agregar un post, pueden ir al repositorio open-source que contiene el proyecto hecho en Quarto. PRs bienvenidos!"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -26,5 +26,54 @@
     "title": "Post With Math and Code",
     "section": "",
     "text": "This is a post with executable code.\n\nprint(\"Executable code is working on this blog!\")\n\nExecutable code is working on this blog!\n\n\nHere is some inline math: \\(E = mc^2\\).\nAnd here is a displayed equation:\n\\[\n\\int_{a}^{b} f(x)\\,dx = F(b) - F(a)\n\\]"
+  },
+  {
+    "objectID": "posts/blog-post/index.html",
+    "href": "posts/blog-post/index.html",
+    "title": "Post con Python y Latex",
+    "section": "",
+    "text": "Esto es un ejemplo de post que se puede hacer, combinando tanto código ejecutable (como Python, Julia o R) y latex.\n\nprint(\"Executable code is working on this blog!\")\n\nExecutable code is working on this blog!\n\n\nHere is some inline math: \\(E = mc^2\\).\nAnd here is a displayed equation:\n\\[\n\\int_{a}^{b} f(x)\\,dx = F(b) - F(a)\n\\]"
+  },
+  {
+    "objectID": "index.html#blog",
+    "href": "index.html#blog",
+    "title": "Grupo de estudio y discusión interclaustros",
+    "section": "Blog",
+    "text": "Blog"
+  },
+  {
+    "objectID": "index.html#blog-del-grupo-de-discusión-interclaustros-sobre-matemática-aplicada",
+    "href": "index.html#blog-del-grupo-de-discusión-interclaustros-sobre-matemática-aplicada",
+    "title": "Matemática Aplicada",
+    "section": "Blog del Grupo de discusión interclaustros sobre matemática aplicada",
+    "text": "Blog del Grupo de discusión interclaustros sobre matemática aplicada"
+  },
+  {
+    "objectID": "posts/primera-reunion/index.html",
+    "href": "posts/primera-reunion/index.html",
+    "title": "Primera Reunión",
+    "section": "",
+    "text": "Queríamos compartir una idea que surgió charlando con algunos docentes y estudiantes de la carrera.\nLa situación de la orientación de matemática aplicada a veces se siente un poco desbalanceada, con las materias en común con “pura” muy orientadas a lo teórico y las de “aplicada” más recientemente enfocadas en adaptarse a la nueva carrera de datos, dejando algunos baches en el medio.\nPensando en esto, se nos ocurrió que podríamos crear un espacio de encuentro y discusión para los estudiantes de la orientación aplicada. No buscamos algo súper formal, sino más bien un “grupo de discusión interclaustros” donde podamos charlar, aprender y construir juntos el futuro de la carrera."
+  },
+  {
+    "objectID": "posts/primera-reunion/index.html#qué-haríamos-en-este-grupo",
+    "href": "posts/primera-reunion/index.html#qué-haríamos-en-este-grupo",
+    "title": "Primera Reunión",
+    "section": "¿Qué haríamos en este grupo?",
+    "text": "¿Qué haríamos en este grupo?\nLa idea es que sea un espacio flexible y participativo, donde podamos:\nDiscutir el plan de estudios: Conversar sobre las materias actuales, proponer mejoras y explorar la posibilidad de nuevas optativas que se adapten mejor a lo que necesitamos.\nProfundizar en temas complementarios: Hay muchos temas súper interesantes que no se ven en profundidad en la carrera y que son muy útiles en el ámbito aplicado. Desde análisis funcional, estadística computacional, machine learning, programación, geometría computacional, hasta física y ecuaciones diferenciales. La idea es complementar lo que ya vieron, y acaso lograr cumplir viejas promesas plasmadas en el plan de estudios oficial como “ecuaciones diferenciales B” o “introducción a la computación”. La idea es que estos temas puedan ser presentados por profes, graduados o por estudiantes.\nCharlar sobre tesis y experiencias profesionales: Queremos que sea un lugar para compartir lo que están haciendo en sus tesis, sus experiencias laborales, y debatir sobre metodologías de investigación o desarrollo profesional en matemática aplicada.\nParticipar de la organización de eventos relacionados con la matemática aplicada, como el TAMI (Taller de Matemática de la Industria)."
+  },
+  {
+    "objectID": "posts/primera-reunion/index.html#por-qué-es-importante-tu-participación",
+    "href": "posts/primera-reunion/index.html#por-qué-es-importante-tu-participación",
+    "title": "Primera Reunión",
+    "section": "¿Por qué es importante tu participación?",
+    "text": "¿Por qué es importante tu participación?\nCreemos que la clave para que esto funcione es su participación activa. No queremos que sea una instancia más de “clase”, sino un espacio dinámico y colaborativo donde las ideas fluyan y podamos construir conocimiento entre todos."
+  },
+  {
+    "objectID": "posts/primera-reunion/index.html#cuándo-nos-juntamos",
+    "href": "posts/primera-reunion/index.html#cuándo-nos-juntamos",
+    "title": "Primera Reunión",
+    "section": "¿Cuándo nos juntamos?",
+    "text": "¿Cuándo nos juntamos?\nPara generar un primer impulso inicial, los invitamos a una primera reunión abierta. Es la oportunidad perfecta para conocernos, escuchar sus propuestas y definir juntos el formato y los temas que más les interesan abordar.\nLa fecha es el Viernes 30 de Mayo, a las 14 hs, en un aula a confirmar.\n¡Esperamos contar con ustedes!\nSaludos!\nMartín Maas,\nIgnacio Ojea\nFrancisco Bersetche\nMauricio Mendiluce"
   }
 ]

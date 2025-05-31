@@ -1,0 +1,44 @@
+---
+title: "Primera Reunión"
+author: "Martín D. Maas"
+date: "2025-05-22"
+categories: [news]
+image: "pab0.jpg"
+---
+
+Queríamos compartir una idea que surgió charlando con algunos docentes y estudiantes de la carrera. 
+
+La situación de la orientación de matemática aplicada a veces se siente un poco desbalanceada, con las materias en común con "pura" muy orientadas a lo teórico y las de "aplicada" más recientemente enfocadas en adaptarse a la nueva carrera de datos, dejando algunos baches en el medio.
+
+Pensando en esto, se nos ocurrió que podríamos crear un espacio de encuentro y discusión para los estudiantes de la orientación aplicada. No buscamos algo súper formal, sino más bien un "grupo de discusión interclaustros" donde podamos charlar, aprender y construir juntos el futuro de la carrera.
+
+## ¿Qué haríamos en este grupo?
+La idea es que sea un espacio flexible y participativo, donde podamos:
+
+Discutir el plan de estudios: Conversar sobre las materias actuales, proponer mejoras y explorar la posibilidad de nuevas optativas que se adapten mejor a lo que necesitamos.
+
+Profundizar en temas complementarios: Hay muchos temas súper interesantes que no se ven en profundidad en la carrera y que son muy útiles en el ámbito aplicado. Desde análisis funcional, estadística computacional, machine learning, programación, geometría computacional, hasta física y ecuaciones diferenciales. La idea es complementar lo que ya vieron, y acaso lograr cumplir viejas promesas plasmadas en el plan de estudios oficial como “ecuaciones diferenciales B” o “introducción a la computación”. La idea es que estos temas puedan ser presentados por profes, graduados o por estudiantes.
+
+Charlar sobre tesis y experiencias profesionales: Queremos que sea un lugar para compartir lo que están haciendo en sus tesis, sus experiencias laborales, y debatir sobre metodologías de investigación o desarrollo profesional en matemática aplicada.
+
+Participar de la organización de eventos relacionados con la matemática aplicada, como el TAMI (Taller de Matemática de la Industria).
+
+## ¿Por qué es importante tu participación?
+Creemos que la clave para que esto funcione es su participación activa. No queremos que sea una instancia más de "clase", sino un espacio dinámico y colaborativo donde las ideas fluyan y podamos construir conocimiento entre todos. 
+
+## ¿Cuándo nos juntamos?
+Para generar un primer impulso inicial, los invitamos a una primera reunión abierta. Es la oportunidad perfecta para conocernos, escuchar sus propuestas y definir juntos el formato y los temas que más les interesan abordar.
+
+La fecha es el Viernes 30 de Mayo, a las 14 hs, en un aula a confirmar.
+
+¡Esperamos contar con ustedes!
+
+Saludos!
+
+Martín Maas,
+
+Ignacio Ojea
+
+Francisco Bersetche
+
+Mauricio Mendiluce

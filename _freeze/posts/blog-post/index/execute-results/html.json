@@ -1,0 +1,12 @@
+{
+  "hash": "9b890f666ebde1ae69364f78270df3c8",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"Post con Python y Latex \"\nauthor: \"Harlow Malloc\"\ndate: \"2025-05-21\"\ncategories: [news, code, analysis]\nimage: \"image.jpg\"\n---\n\n\nEsto es un ejemplo de post que se puede hacer, combinando tanto código ejecutable (como Python, Julia o R) y latex.\n\n::: {#36ecf9c9 .cell execution_count=1}\n``` {.python .cell-code}\nprint(\"Executable code is working on this blog!\")\n```\n\n::: {.cell-output .cell-output-stdout}\n```\nExecutable code is working on this blog!\n```\n:::\n:::\n\n\nHere is some inline math: $E = mc^2$.\n\nAnd here is a displayed equation:\n\n$$\n\\int_{a}^{b} f(x)\\,dx = F(b) - F(a)\n$$\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

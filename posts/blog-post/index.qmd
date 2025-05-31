@@ -1,12 +1,12 @@
 ---
-title: "Post With Math and Code"
+title: "Post con Python y Latex "
 author: "Harlow Malloc"
-date: "2025-05-31"
+date: "2025-05-21"
 categories: [news, code, analysis]
 image: "image.jpg"
 ---
 
-This is a post with executable code.
+Esto es un ejemplo de post que se puede hacer, combinando tanto código ejecutable (como Python, Julia o R) y latex.
 
 ```{python}
 print("Executable code is working on this blog!")
